@@ -1,3 +1,5 @@
 ## Working_MachineLearning
 
-Makine öğrenmesi algoritmaları.
+Bazı makine öğrenmesi algoritmaları.
+
+Makine öğrenmesi videolarından yazarak öğrendiklerim.
